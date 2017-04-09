@@ -2,7 +2,7 @@
 from random import randrange
 
 random_numbers =[]
-for i in range (10):  
+for i in range (20):  
     random_numbers.append(randrange(0,49,1))
 print ("random_numbers:", random_numbers)
 
